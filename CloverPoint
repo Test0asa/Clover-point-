@@ -181,7 +181,7 @@ end
 
 aimbot_Tab:AddLabel("⚠ Aimbot: Doesn't work on NPC's parts!")
 aimbot_Tab:AddLabel("⚠ Aimbot: Default bind is E")
-aimbot_Tab:AddLabel("⚠ UNDER WORKING ⚠")
+aimbot_Tab:AddLabel("⚠ UNDER WORK ⚠")
 
 
 
